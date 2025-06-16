@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+RVM2KUJDM0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zchan\\source\\repos\\St7GHExtension\\St7GHExtension\\St7Toolkit.GHExtension.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zchan\\.nuget\\packages\\grasshopper\\7.35.23346.11001\\grasshopper.7.35.23346.11001.nupkg.sha512",
+    "C:\\Users\\zchan\\.nuget\\packages\\rhinocommon\\7.35.23346.11001\\rhinocommon.7.35.23346.11001.nupkg.sha512"
+  ],
+  "logs": []
+}
