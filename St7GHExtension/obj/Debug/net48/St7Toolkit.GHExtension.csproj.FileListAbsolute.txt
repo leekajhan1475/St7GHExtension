@@ -1,0 +1,14 @@
+C:\Users\zchan\source\repos\St7GHExtension\St7GHExtension\bin\Debug\net48\St7Toolkit.GHExtension.gha
+C:\Users\zchan\source\repos\St7GHExtension\St7GHExtension\bin\Debug\net48\St7Toolkit.GHExtension.pdb
+C:\Users\zchan\source\repos\St7GHExtension\St7GHExtension\bin\Debug\net48\GHExtensionToolkit.dll
+C:\Users\zchan\source\repos\St7GHExtension\St7GHExtension\bin\Debug\net48\St7Toolkit.dll
+C:\Users\zchan\source\repos\St7GHExtension\St7GHExtension\bin\Debug\net48\GHExtensionToolkit.pdb
+C:\Users\zchan\source\repos\St7GHExtension\St7GHExtension\bin\Debug\net48\St7Toolkit.pdb
+C:\Users\zchan\source\repos\St7GHExtension\St7GHExtension\obj\Debug\net48\St7Toolkit.GHExtension.csproj.AssemblyReference.cache
+C:\Users\zchan\source\repos\St7GHExtension\St7GHExtension\obj\Debug\net48\St7Toolkit.GHExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zchan\source\repos\St7GHExtension\St7GHExtension\obj\Debug\net48\St7Toolkit.GHExtension.AssemblyInfoInputs.cache
+C:\Users\zchan\source\repos\St7GHExtension\St7GHExtension\obj\Debug\net48\St7Toolkit.GHExtension.AssemblyInfo.cs
+C:\Users\zchan\source\repos\St7GHExtension\St7GHExtension\obj\Debug\net48\St7Toolkit.GHExtension.csproj.CoreCompileInputs.cache
+C:\Users\zchan\source\repos\St7GHExtension\St7GHExtension\obj\Debug\net48\St7Toolk.CF3936F7.Up2Date
+C:\Users\zchan\source\repos\St7GHExtension\St7GHExtension\obj\Debug\net48\St7Toolkit.GHExtension.gha
+C:\Users\zchan\source\repos\St7GHExtension\St7GHExtension\obj\Debug\net48\St7Toolkit.GHExtension.pdb
